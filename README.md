@@ -1,0 +1,2 @@
+# gitstudying
+studying git
